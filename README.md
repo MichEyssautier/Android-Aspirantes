@@ -30,7 +30,7 @@ Olazabal Baquero Omar Armando
 |  Proyecto   |    50 %    |
 |   Reporte   |    30 %    |
 
-### EXAMEN
+### EXAMEN Nancy Vanessa Magín Gómez
 
 ```
 Fecha de límite: 2021.01.20 11:59 pm
@@ -38,6 +38,8 @@ Fecha de límite: 2021.01.20 11:59 pm
 
 
 URL Formulario de Google: [Examen Android 2021-1](https://forms.gle/sH8ffmCZmMgepsSd6)
+
+
 
 **ATENCIÓN:** No colocar respuestas copiadas a la brava de internet. Si es así, (busco sus respuestas en Google y veo copias chafonas) no tendrán derecho a calificación en Android. No está prohibido buscar, pero al menos reescriban lo que entiendan. Si tienen duda de la redacción de alguna pregunta, contáctenme. 
 
@@ -80,7 +82,29 @@ Checar: [SISTOP-2020-2 con Gunnar Wolf](https://github.com/SamArtGS/sistop-2020-
 |**13**|             | 0 | 0 | 0 | 0 | 0
 |**15**|             | 0 | 0 | 0 | 0 | 0
 |**17**|             | 0 | 0 | 0 | 0 | 0
-|**19**|             | 0 | 0 | 0 | 0 | 0
+|**19**|Abraham Galindo Ruiz | 0 | 0 | 0 | 0 | 0
+
+
+
+
+Espinoza de los Monteros Camarillo Pamela
+
+
+
+Abraham Galindo Ruiz
+
+Bautista Pérez Brian Jassiel
+
+
+Isaac Alejandro Sanabria Mendoza 
+
+
+
+
+Carrichi de la Cruz Roberto Carlos
+
+Ortega Lujano Conic aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 - *Aún si calificar
 - +Pendiente
@@ -98,3 +122,8 @@ Fecha de límite de entregas: 2021.01.20 11:59 pm
 Para más información: [ANDROID DEVELOPERS](https://developer.android.com)
 
 
+
+
+
+
+Angeles Hernández Juan
